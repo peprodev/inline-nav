@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: Pepro Inline Navigation\n"
+"POT-Creation-Date: 2020-08-04 00:07+0430\n"
+"PO-Revision-Date: 2020-08-04 00:11+0430\n"
+"Language-Team: Amirhosseinhpv <amirhossein@hpv.im>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pepro-inline-nav.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Amirhosseinhpv <amirhossein@hpv.im>\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pepro-inline-nav.php:55 pepro-inline-nav.php:57 pepro-inline-nav.php:105
+msgid "Inline Navigation"
+msgstr "منوی ناوبری داخی مطالب"
+
+#. Plugin Name of the plugin/theme
+#: pepro-inline-nav.php:56
+msgid "Pepro Inline Navigation"
+msgstr "منوی ناوبری داخی مطالب از پپرو"
+
+#: pepro-inline-nav.php:58
+#, php-format
+msgid "%2$s ver. %1$s"
+msgstr "%2$s نسخه %1$s"
+
+#: pepro-inline-nav.php:81
+#, php-format
+msgctxt "required-plugin"
+msgid "%1$s needs %2$s to be installed and activated to function correctly."
+msgstr "%1$s برای عملکرد صحیح نیاز به نصب و فعالسازی افزونه %2$s دارد."
+
+#: pepro-inline-nav.php:83
+msgctxt "required-plugin"
+msgid "WPBakery Page Builder"
+msgstr "صفحه ساز WPBakery Page Builder"
+
+#: pepro-inline-nav.php:106
+msgid "Adds inline navigation items"
+msgstr "افزودن آیتم به منوی ناوبری مطالب"
+
+#: pepro-inline-nav.php:112
+msgid "Pepro Elements"
+msgstr "ویجت های پپرو"
+
+#: pepro-inline-nav.php:123
+msgid "Nav. Title"
+msgstr "عنوان منو"
+
+#: pepro-inline-nav.php:124
+msgid "Title will be shown as name of navigation item."
+msgstr "عنوان منو را وارد کنید."
+
+#: pepro-inline-nav.php:131
+msgid "CSS Selector"
+msgstr "انتخابگر CSS"
+
+#: pepro-inline-nav.php:132
+msgid "Navigation CSS selector, Use # for ID or . for class selection."
+msgstr ""
+"انتخابگر مقصد CSS را وارد کنید ( برای ای دی از # و کلاس از . استفاده کنید )."
+
+#: pepro-inline-nav.php:138 pepro-inline-nav.php:149 pepro-inline-nav.php:160
+#: pepro-inline-nav.php:170
+msgid "Design options"
+msgstr "تنظیمات نمایشی"
+
+#: pepro-inline-nav.php:141
+msgid "Scroll Offset"
+msgstr "آفست اسکرول"
+
+#: pepro-inline-nav.php:143
+msgid "e.g. 100"
+msgstr "مثلا: 50"
+
+#: pepro-inline-nav.php:152
+msgid "Navigation Offset"
+msgstr "آفست عمودی منوی ناوبری"
+
+#: pepro-inline-nav.php:153
+msgid "e.g. 5rem"
+msgstr "مثلا: 5rem"
+
+#: pepro-inline-nav.php:163
+msgid "Element's ID"
+msgstr "آی دی"
+
+#: pepro-inline-nav.php:173
+msgid "Element's Class"
+msgstr "کلاس"
+
+#: pepro-inline-nav.php:196 pepro-inline-nav.php:197
+msgid "Support"
+msgstr "پشتیبانی این محصول"
+
+#. Plugin URI of the plugin/theme
+msgid "https://pepro.dev/mapify"
+msgstr "https://pepro.dev/mapify"
+
+#. Description of the plugin/theme
+msgid ""
+"Add a floating navigation to your posts and pages to improve Readability and "
+"UX, works with WPBakery Page Builder only"
+msgstr ""
+"توسط این افزونه و صفحه ساز WPBakery Page Builder میتوانید یک منوی ناوبری "
+"برای صفحات، مطالب و .. ایجاد کنید"
+
+#. Author of the plugin/theme
+msgid "Pepro Dev. Group"
+msgstr "تیم برنامه ‏نویسی پپرو"
+
+#. Author URI of the plugin/theme
+msgid "https://pepro.dev/"
+msgstr "https://pepro.dev/"
