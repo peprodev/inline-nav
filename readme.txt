@@ -40,13 +40,13 @@ You can help us improve our works by committing your changes to Pepro Dev's GitH
 
 == Screenshots ==
 
-1. WPBakery Page Builder Widget Setting → Tab General
-2. WPBakery Page Builder Widget Setting → Tab Design
+1. WPBakery Page Builder Widget Setting → General 
+2. WPBakery Page Builder Widget Setting → Design 
 3. Demo in Desktop View
 4. Demo in Mobile View ( Responsive )
 5. Demo in Mobile View ( Responsive )
-6. RTL - WPBakery Page Builder Widget Setting → Tab General
-7. RTL - WPBakery Page Builder Widget Setting → Tab Design
+6. RTL - WPBakery Page Builder Widget Setting → General
+7. RTL - WPBakery Page Builder Widget Setting → Design
 8. RTL - Demo in Desktop View
 9. RTL - Demo in Mobile View ( Responsive )
 10. RTL - Demo in Mobile View ( Responsive )
