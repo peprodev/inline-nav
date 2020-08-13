@@ -9,8 +9,8 @@ Developer: Amirhosseinhpv
 Author URI: https://pepro.dev/
 Developer URI: https://hpv.im/
 Plugin URI: https://pepro.dev/inline-navigation
-Version: 1.0.0
-Stable tag: 1.0.0
+Version: 1.0.1
+Stable tag: 1.0.1
 Requires at least: 5.0
 Tested up to: 5.4
 Requires PHP: 5.6
@@ -49,7 +49,7 @@ if (!class_exists("PeproPostInlineNav")){
         $this->assets_url = plugins_url("/assets", __FILE__);
         $this->plugin_basename = plugin_basename(__FILE__);
         $this->plugin_file = __FILE__;
-        $this->version = "1.0.0";
+        $this->version = "1.0.1";
         $this->db_slug = $this->td;
         $this->db_table = $wpdb->prefix . $this->db_slug;
         $this->title = __("Inline Navigation", $this->td);
