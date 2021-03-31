@@ -3,7 +3,7 @@ Contributors: peprodev,amirhosseinhpv
 Donate link: https://pepro.dev/donate
 Tags: functionality, visual composer, navigation, readability, UX
 Requires at least: 5.0
-Tested up to: 5.4
+Tested up to: 5.7
 Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
