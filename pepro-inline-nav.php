@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Pepro Inline Navigation
+Plugin Name: PeproDev Inline Navigation
 Description: Add a floating navigation to your posts and pages to improve Readability and UX, works with WPBakery Page Builder only
 Contributors: amirhosseinhpv,peprodev
 Tags: functionality, visual composer, navigation, readability, UX

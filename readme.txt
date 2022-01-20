@@ -1,4 +1,4 @@
-=== Pepro Inline Navigation ===
+=== PeproDev Inline Navigation ===
 Contributors: peprodev,amirhosseinhpv
 Donate link: https://pepro.dev/donate
 Tags: functionality, visual composer, navigation, readability, UX
