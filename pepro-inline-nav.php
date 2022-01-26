@@ -12,7 +12,7 @@ Plugin URI: https://pepro.dev/inline-navigation
 Version: 1.0.1
 Stable tag: 1.0.1
 Requires at least: 5.0
-Tested up to: 5.7
+Tested up to: 5.9
 Requires PHP: 5.6
 Text Domain: pepinav
 Domain Path: /languages
